@@ -1,0 +1,104 @@
+
+.container{
+  margin-top: 120px;
+    margin-left: 50px;
+    width: 90%;
+
+}
+.main-title{
+  margin-left: 570px;
+  width: 9%;
+  font-weight: bolder;
+}
+.card{
+  margin-left: 50px;
+  margin-top: 50px;
+  width: 30%;
+}
+#first{
+background-color: #8ab0ed;
+}
+#second{
+  background-color: #9fedbd;
+
+
+}
+#third{
+  background-color: #eb4b1a;
+
+}
+.fa-virus-covid{
+  color: green;
+
+  margin-left: 100px;
+  margin-top: 20px;
+}
+.first-case{
+  margin-top: 20px;
+  margin-left: 50px;
+}
+.cases{
+  margin-left: 80px;
+}
+.second-case{
+  margin-top: 20px;
+  margin-left: 45px;
+}
+.fa-mask-face{
+  color: blue;
+  margin-left: 100px;
+  margin-top: 20px;
+
+}
+.fa-viruses {
+  color: green;
+  margin-left: 100px;
+  margin-top: 20px;
+
+
+}
+.map{
+  width: 100%;
+  height: 100vh;
+}
+nav{
+  color: white;
+}
+#first-nav{
+  margin-left: 700px;
+}
+li{
+  margin-left: 25px;
+}
+body{
+  background-image: url(https://steamuserimages-a.akamaihd.net/ugc/966475888335104114/01C4792946F810F690AE71348C3F29FFDB09F19C/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.main-heading{
+  padding-top: 100px;
+  padding-left: 100px;
+  word-spacing: 5px;
+  letter-spacing: 3px;
+}
+#search-filter{
+  margin-top: 20px;
+  margin-left: 130px;
+}
+#allData{
+  margin-left: 60px;
+  margin-top: 20px;
+}
+#fourth{
+  background-color: #f78dfc;
+}
+.third-case{
+  margin-top: 20px;
+  margin-left: 45px;
+  }
+.fa-comment-medical{
+  color: darkred;
+   margin-left: 100px;
+  margin-top: 20px;
+
+}
